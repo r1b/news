@@ -1,0 +1,26 @@
+fetch_interval: 60
+sources:
+    - name: USA Today - National
+      url: http://rssfeeds.usatoday.com/usatodaycomnation-topstories&x=1
+    - name: USA Today - World
+      url: http://rssfeeds.usatoday.com/usatodaycomworld-topstories&x=1
+    - name: NYTimes - US
+      url: http://rss.nytimes.com/services/xml/rss/nyt/US.xml
+    - name: NYTimes - World
+      url: http://rss.nytimes.com/services/xml/rss/nyt/World.xml
+    - name: WSJ - World
+      url: http://www.wsj.com/xml/rss/3_7085.xml
+    - name: WSJ - US Business
+      url: http://www.wsj.com/xml/rss/3_7014.xml
+    - name: Latimes - Nation
+      url: http://www.latimes.com/nation/rss2.0.xml
+    - name: Latimes - World
+      url: http://www.latimes.com/world/rss2.0.xml
+    - name: Washington Post - National
+      url: http://feeds.washingtonpost.com/rss/national
+    - name: Washington Post - World
+      url: http://feeds.washingtonpost.com/rss/world
+    - name: Reuters - US
+      url: http://feeds.reuters.com/Reuters/domesticNews
+    - name: Reuters - World
+      url: http://feeds.reuters.com/Reuters/worldNews
